@@ -1,24 +1,31 @@
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
-excluded-patches = "'Enable tablet layout' 'Tablet mini player' 'Hide captions button' 'Hide autoplay button' 'Hide cast button' 'Hide player buttons' 'Navigation buttons' 'Hide video action buttons' 'Change start page' 'Hide seekbar' 'Comments' 'Hide breaking news shelf' 'Hide Shorts components' 'Disable rolling number animations' 'Hide floating microphone button' 'Hide endscreen cards' 'Hide crowdfunding box' 'Disable suggested video end screen' 'Disable fullscreen ambient mode' 'Hide 'Load more' button' 'Hide album cards' 'Hide filter bar' 'Player flyout menu' 'Hide layout components' 'Hide timestamp' 'Hide info cards' 'Disable auto captions'"
+build-mode = "module"
+excluded-patches = "'Remove viewer discretion dialog' 'Tablet mini player' 'Hide captions button' 'Hide autoplay button' 'Hide cast button' 'Hide player buttons' 'Hide video action buttons' 'Comments' 'Hide breaking news shelf' 'Hide Shorts components' 'Disable rolling number animations' 'Hide floating microphone button' 'Hide crowdfunding box' 'Disable suggested video end screen' 'Hide album cards' 'Hide filter bar' 'Player flyout menu' 'Hide layout components' 'Hide timestamp' 'Hide info cards' 'Disable auto captions'"
 
 [Messenger]
 apkmirror-dlurl = "https://apkmirror.com/apk/facebook-2/messenger/"
+build-mode = "module"
 
 [Tiktok]
 apkmirror-dlurl = "https://apkmirror.com/apk/tiktok-pte-ltd/tik-tok-including-musical-ly/"
+build-mode = "module"
+included-patches = "'SIM spoof'"
 
 [Twitch]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitch-interactive-inc/twitch/"
+build-mode = "module"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+build-mode = "module"
 
 [Instagram]
 apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
+build-mode = "module"
 
 [Twitter]
 apkmirror-dlurl = "https://apkmirror.com/apk/twitter-inc/twitter/"
