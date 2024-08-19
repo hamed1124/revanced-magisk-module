@@ -3,6 +3,7 @@ apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
 
 [YouTube]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+build-mode = "module"
 excluded-patches = "'Disable auto captions' 'Navigation buttons' 'Hide captions button' 'Spoof app version' 'Player flyout menu' 'Hide info cards' 'Hide Shorts components' 'Hide layout components' 'Hide album cards' 'Hide crowdfunding box' 'Hide floating microphone button' 'Hide endscreen cards' 'Comments' 'Hide filter bar' 'Enable tablet layout' 'Downloads' 'GmsCore support'"
 
 [Instagram]
@@ -10,3 +11,4 @@ apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
 
 [Music]
 apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube-music/"
+build-mode = "module"
